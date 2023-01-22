@@ -1,0 +1,33 @@
+.login-form {
+    width: 250px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+  }
+
+  .login-form-margin {
+    margin-bottom: 16px;
+  }
+
+  .login-form-forgot {
+    float: right;
+  }
+
+  .login-form-button {
+    width: 100%;
+  }
+
+  .register-now { 
+    position: fixed;
+    left:30%;
+  }
+
+  .username {
+    width: 100%;
+  }
+
+  .password {
+    width: 100%;
+  }
